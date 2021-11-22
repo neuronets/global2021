@@ -2,6 +2,9 @@ nav:
   - title: "About"
     section: about
     
+  - title: "Organizers"
+    section: organization
+  
   - title: "Schedule"
     section: schedule
 
