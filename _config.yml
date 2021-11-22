@@ -26,10 +26,10 @@ url: "https://brainhack-aus.github.io" # the base hostname & protocol for your s
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
-title      : Brainhack Global 2021 - Australasia
+title      : Brainhack Global 2021 - Massachusetts Institute of Technology
 email      : your-email@example.com #this is also the email contact forms will go to
-description: "Australasia Hub of the 2021 BrainHack Global Hackathon"
-author     : Brainhack Australasia
+description: "MIT Neuro Edition of the 2021 BrainHack Global Hackathon"
+author     : Brainhack MIT Neuro
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
