@@ -1,8 +1,8 @@
 header:
-  title: Welcome to Brainhack Global 2021 - Australasia
-  text: Nov 29 - Dec 3
+  title: Welcome to Brainhack Global 2021 - MIT
+  text: Dec 6 - Dec 7
   button: Register (join channel)
-  buttonlink: "https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia"
+  buttonlink: "https://mattermost.brainhack.org/brainhack/channels/brainhack-mit-neuro"
 
 about:
   title: "About"
@@ -25,11 +25,9 @@ about:
       body: "BrainHack Global (BHG) is a hackathon consisting of many
              <a href=\"https://brainhack.org/global2021/events/\">local events</a>
              in different regions around the world. Sign up to be involved with any of the
-             <a href=\"https://brainhack.org/global2021/projects/\">international projects</a>
-             and connect with peers in the Australasia Hub for advice,
-             training and social meet-ups.\n\n"
-    - title: Australasia Hub
-      body: "BHG 2021 Australasia follows the format of successful virtual OHBM Brainhacks.
+             <a href=\"https://brainhack.org/global2021/projects/\">international projects</a>.\n\n"
+    - title: BrainHack: The MIT Edition
+      body: "BHG 2021 MIT Neuro follows on the footsteps of several successful virtual brainhacks organized by the OHBM community.
              New to computational neuroscience methods? Sign up to the <a href=\"#traintrack\">training track</a>
              to get a handle on all the basics. Ready to join in and start collaborating on projects? Then
              sign up for the 
@@ -38,8 +36,8 @@ about:
              virtual social events using <a href=\"https://www.gather.town/\">Gather.town</a>
              for everyone to meet up and get to know one another.\n\n
              
-             To register, please join the BrainHack-Australasia
-             <a href=\"https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia\">Mattermost channel</a>
+             To register, please join the BrainHack-MIT-Neuro Channel
+             <a href=\"https://mattermost.brainhack.org/brainhack/channels/brainhack-mit-neuro\">Mattermost channel</a>
              (a Slack alternative). All comms about the event will happen through this channel so watch for notifications here! 
              You can also register for the Zoom sessions you plan attend in the <a href=\"#hacktrack\">hack-track</a> and
              <a href=\"#traintrack\">train-track</a> sections below."
@@ -73,125 +71,60 @@ traintrack:
   # left is the default
   #start_align: "left"
   events:
-    - title: "HPC and BASH basics"
-      year: "Monday, Nov 29"
-      desc: "Learn about how to launch programs from the BASH prompt on High Performance Computing (HPC) clusters"
-      image: assets/img/traintrack/bash.png
-      alt: HPC and BASH basics
-      presenter: Dragan Rangelov & Aswin Narayanan
-      registration: https://uqz.zoom.us/meeting/register/tZYrfu6gqjgoH9MboXHLg9M5-1Z9dMTeWFZC
-    - title: "Git and Github for researchers"
-      year: "Tuesday, Nov 30"
-      desc: "Learn how to use git and github effectively for open-source projects"
-      image: assets/img/traintrack/github.png
-      align: right
-      presenter: Johanna Bayer & Saskia Bollmann
-      registration: https://uqz.zoom.us/meeting/register/tZcpce2vrT8sG9LLUcx_na32C5xcc4IsZZy4
-      alt: Git and Github for researchers
-    - title: "Intro to Python"
-      year: "Wednesday, Dec 1"
-      desc: "Intro to Python scripting and environment management"
-      image: assets/img/traintrack/python.png
-      presenter: Christopher Nolan & Angela Renton
-      registration: https://uqz.zoom.us/meeting/register/tZYlcuGuqDItE9xJJJM2NfNSfYfxLSN_VsWj
-      alt: Intro to Python
-    - title: "Containers"
-      year: "Thursday, Dec 2"
-      desc: "Learn how to get started with running Docker and Singularity containers"
-      image: assets/img/traintrack/docker.png
-      alt: Containers
-      # you can enforce the alignment
-      align: right
-      presenter: Thomas Shaw & Steffen Bollmann
-      registration: https://uqz.zoom.us/meeting/register/tZcpfumtqj4sGNU2jXcw1QKVjpgP4SeossE0
-    - title: "Development tools"
-      year: "Friday, Dec 3"
-      desc: "Learn how to program efficiently and effectively with VSCode and test-driven development"
-      image: assets/img/traintrack/vscode.png
-      alt: Development tools
-      presenter: Tom Close & TBD
-      registration: https://uqz.zoom.us/meeting/register/tZYtfumsqz0sGtMCOCl-sFkubtWh6SmDjxs1
+    - title: "TBA"
+      year: "Monday, Dec 06"
+      desc: "To be filled"
+      image: #assets/img/traintrack/bash.png
+      alt: #HPC and BASH basics
+      presenter: #Dragan Rangelov & Aswin Narayanan
+      registration: #https://uqz.zoom.us/meeting/register/tZYrfu6gqjgoH9MboXHLg9M5-1Z9dMTeWFZC
+    - title: "TBA"
+      year: "Tuesday, Dec 07"
+      desc: #"Learn how to use git and github effectively for open-source projects"
+      image: #assets/img/traintrack/github.png
+      align: #right
+      presenter: #Johanna Bayer & Saskia Bollmann
+      registration: #https://uqz.zoom.us/meeting/register/tZcpce2vrT8sG9LLUcx_na32C5xcc4IsZZy4
+      alt: #Git and Github for researchers
+
   end: "Certified <br> Brain-<br> Hacker!"
 
 schedule:
   section: schedule
   title: "Schedule"
   days:
-    - name: "Monday, November 29"
+    - name: "Monday, December 06"
       events:
         - start: "10am AEST/11am AEDT/8am AWST"
           starttime: 2021-11-29T11:00:00+11:00
           endtime: 2021-11-29T12:00:00+11:00
           duration: "60 min"
           title: Welcome to Brainhack and project pitches
-          registration: https://uqz.zoom.us/meeting/register/tZYof-6hqzItGNDIc1_g8ninsuLFDstlOpRO
+          registration: <Add zoom link>
         - start: "2pm AEST/3pm AEDT/12pm AWST"
           starttime: 2021-11-29T15:00:00+11:00
           endtime: 2021-11-29T17:00:00+11:00
           duration: "90 min"
-          title: High Performance Computing (HPC) use and bash scripting basics
-    - name: "Tuesday, November 30"
+          title: TBA
+    - name: "Tuesday, December 07"
       events:
         - start: "10:30am AEST/11:30am AEDT/8:30am AWST"
           starttime: 2021-11-30T11:30:00+11:00
           endtime: 2021-11-30T12:00:00+11:00
           duration: "30 min"
           title: Project status updates
-          presenter: Kelly Garner
-          registration:  https://uqz.zoom.us/meeting/register/tZArdeiprD8oEtzTV-FdDj3J1cT-3Fsn2Ak_
+          presenter: TBA
+          registration:  <Add zoom link>
         - start: "2pm AEST/3pm AEDT/12pm AWST"
           starttime: 2021-11-30T15:00:00+11:00
           endtime: 2021-11-30T17:00:00+11:00
           duration: "90 min"
           title: Git and GitHub for researchers
-    - name: "Wednesday, December 1"
-      events:
-        - start: "10:30am AEST/11:30am AEDT/8:30am AWST"
-          starttime: 2021-12-01T11:30:00+11:00
-          endtime: 2021-12-01T12:00:00+11:00
-          duration: "30 min"
-          title: Project status updates
-          presenter: Kelly Garner
-          registration:  https://uqz.zoom.us/meeting/register/tZcrc--uqT8oGdKnugOGrM_Ci3qX6HyhBTfX
-        - start: "2pm AEST/3pm AEDT/12pm AWST"
-          starttime: 2021-12-01T15:00:00+11:00
-          endtime: 2021-12-01T17:00:00+11:00
-          duration: "90 min"
-          title: Intro to Python scripting and environment management
-    - name: "Thursday, December 2"
-      events:
-        - start: "10:30am AEST/11:30am AEDT/8:30am AWST"
-          starttime: 2021-12-02T11:30:00+11:00
-          endtime: 2021-12-02T12:00:00+11:00
-          duration: "30 min"
-          title: Project status updates
-          presenter: Kelly Garner
-          registration: https://uqz.zoom.us/meeting/register/tZwtcu6urTwvH9KhNgHN5VFWow-1YPZ1SxWg
-        - start: "2pm AEST/3pm AEDT/12pm AWST"
-          starttime: 2021-12-02T15:00:00+11:00
-          endtime: 2021-12-02T17:00:00+11:00
-          duration: "90 min"
-          title: Containers
-    - name: "Friday, December 3"
-      events:
-        - start: "10:30am AEST/11:30am AEDT/8:30am AWST"
-          starttime: 2021-12-03T11:30:00+11:00
-          endtime: 2021-12-03T12:00:00+10:00
-          duration: "30 min"
-          title: Project status updates
-          presenter: Kelly Garner
-          registration: https://uqz.zoom.us/meeting/register/tZAkc-iurT8qGNZT1lm34ZJMRlWLmg6PQjrP
-        - start: "2pm AEST/3pm AEDT/12pm AWST"
-          starttime: 2021-12-03T15:00:00+11:00
-          endtime: 2021-12-03T17:00:00+11:00
-          duration: "90 min"
-          title: Development tools
+
 footer:
   legal: "Title image adapted from original by <a href=\"https://pixabay.com/users/gdj-1086657/\">Gordon Johnson</a> from <a href=\"https://pixabay.com/\">Pixabay</a>"
   social:
-    - url: https://twitter.com/hashtag/BHAUS2021
+    - url: https://twitter.com/bhkMitNeuro
       icon: "fab fa-twitter"
-    - url: https://github.com/brainhack-aus/global2021
+    - url: https://github.com/neuronets
       icon: "fab fa-github"
-    - url: https://www.instagram.com/brainhack_global/
-      icon: "fab fa-instagram"
