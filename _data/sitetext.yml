@@ -26,20 +26,21 @@ about:
              <a href=\"https://brainhack.org/global2021/events/\">local events</a>
              in different regions around the world. Sign up to be involved with any of the
              <a href=\"https://brainhack.org/global2021/projects/\">international projects</a>\n\n"
-    - title: BrainHack: The MIT Edition
-      body: "BHG 2021 MIT Neuro follows on the footsteps of several successful virtual brainhacks organized by the OHBM community.
+    - title: BrainHack MIT Edition
+      body: "BHG 2021 MIT Neuro follows the format of successful virtual OHBM Brainhacks.
              New to computational neuroscience methods? Sign up to the <a href=\"#traintrack\">training track</a>
              to get a handle on all the basics. Ready to join in and start collaborating on projects? Then
-             sign up for the <a href=\"#hacktrack\">hackathon-track</a> and start hacking with your peers! 
-             Throughout the week there will also be virtual social events using <a href=\"https://www.gather.town/\">Gather.town</a>
-             for everyone to meet up and get to know one another.\n\n"
+             sign up for the 
+             <a href=\"#hacktrack\">hackathon-track</a> and start hacking with your peers! 
+             Throughout the week there will also be
+             virtual social events using <a href=\"https://www.gather.town/\">Gather.town</a>
+             for everyone to meet up and get to know one another.\n\n
              
-             To register, please join the BrainHack-MIT-Neuro Channel
+             To register, please join the BrainHack-Australasia
              <a href=\"https://mattermost.brainhack.org/brainhack/channels/brainhack-mit-neuro\">Mattermost channel</a>
              (a Slack alternative). All comms about the event will happen through this channel so watch for notifications here! 
              You can also register for the Zoom sessions you plan attend in the <a href=\"#hacktrack\">hack-track</a> and
              <a href=\"#traintrack\">train-track</a> sections below."
-
 hacktrack:
   title: "HACK-TRACK"
   text: "Become part of the global brain-hackathon!"
