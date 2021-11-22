@@ -1,0 +1,20 @@
+<!-- About -->
+  <section class="page-section" id="{{ site.data.sitetext.organizers.section | default: organizers }}">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.organizers.title | default: Organizers }}</h2>
+        </div>
+      </div>
+    {% for people in site.data.sitetext.organizers.people %}
+	  <div class="row">
+		<div class="col-lg-8 mx-auto text-center">
+      <h3></h3>
+      <h5 class="section-heading">{{ people.name }}</h5>
+		  <div class="large text-muted">{{ people.institution | markdownify }}</div>
+		</div>
+	  </div>
+    {% endfor %}
+    </div>
+  </section>
+<!-- End About -->
