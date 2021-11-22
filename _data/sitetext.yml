@@ -123,17 +123,17 @@ schedule:
 organizers:
   section: organization
   title: "Organizers"
-      people:
-        - name: "Satrajit Ghosh (Chair)"
-        - institution: MIT
-        - name: "Dorota Jarecka"
-        - institution: MIT
-        - name: "Aakanksha Rana"
-        - institution: MIT
-        - name: "Hoda Rajaei"
-        - institution: MIT
-        - name: "Dhritiman Das"
-        - institution: MIT
+  people:
+      - name: "Satrajit Ghosh (Chair)"
+      - institution: MIT
+      - name: "Dorota Jarecka"
+      - institution: MIT
+      - name: "Aakanksha Rana"
+      - institution: MIT
+      - name: "Hoda Rajaei"
+      - institution: MIT
+      - name: "Dhritiman Das"
+      - institution: MIT
 
 footer:
   legal: "Title image adapted from original by <a href=\"https://pixabay.com/users/gdj-1086657/\">Gordon Johnson</a> from <a href=\"https://pixabay.com/\">Pixabay</a>"
