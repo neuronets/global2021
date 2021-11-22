@@ -1,0 +1,16 @@
+.organizers {
+  .day-heading {
+    h4 {
+      padding-top: 1em;
+      color: inherit;
+      &.subheading {
+        text-transform: none;
+      }
+    }
+  }
+  .organizers-body {
+    > p {
+      margin-bottom: 0;
+    }
+  } 
+}
