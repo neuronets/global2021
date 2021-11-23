@@ -3,6 +3,8 @@ header:
   text: Dec 6 - Dec 7
   button: Register (join channel)
   buttonlink: "https://mattermost.brainhack.org/brainhack/channels/brainhack-mit-neuro"
+  button2: Register
+  buttonlink: "https://docs.google.com/forms/d/e/1FAIpQLSfRhB2gGEiLHWvHqUboUeIGQewaGbKbc2npKqFJWjtgthFyCg/viewform?usp=sf_link"
 
 about:
   title: "About"
