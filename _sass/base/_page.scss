@@ -1,7 +1,7 @@
 // Global styling for this template
 body {
-  color: white;
-  background-color: black;
+  color: $black;
+  background-color: $white;
   overflow-x: hidden;
   @include body-font;
 }
