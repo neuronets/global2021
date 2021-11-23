@@ -100,13 +100,43 @@ schedule:
           starttime: 2021-11-29T11:00:00+11:00
           endtime: 2021-11-29T12:00:00+11:00
           duration: "60 min"
-          title: Welcome to Brainhack and project pitches
+          title: Welcome to Brainhack MIT Neuro and project pitches
           registration: <Add zoom link>
+        - start: "11am AEST/12pm AEDT/9am AWST"
+          starttime: 2021-11-29T12:00:00+11:00
+          endtime: 2021-11-29T12:45:00+11:00
+          duration: "45 min"
+          title: Nobrainer Tutorial (by Aakanksha Rana and Dhritiman Das)
+        - start: "1145am AEST/1245pm AEDT/945am AWST"
+          starttime: 2021-11-29T12:45:00+11:00
+          endtime: 2021-11-29T13:00:00+11:00
+          duration: "15 min"
+          title: Break
+        - start: "12pm AEST/1pm AEDT/10am AWST"
+          starttime: 2021-11-29T13:00:00+11:00
+          endtime: 2021-11-29T14:00:00+11:00
+          duration: "60 min"
+          title: Model Zoo Tutorial (by Hoda Rajaei)
+        - start: "1pm AEST/2pm AEDT/11am AWST"
+          starttime: 2021-11-29T14:00:00+11:00
+          endtime: 2021-11-29T15:00:00+11:00
+          duration: "60 min"
+          title: Lunch break
         - start: "2pm AEST/3pm AEDT/12pm AWST"
           starttime: 2021-11-29T15:00:00+11:00
-          endtime: 2021-11-29T17:00:00+11:00
+          endtime: 2021-11-29T16:30:00+11:00
           duration: "90 min"
-          title: TBA
+          title: Hack time
+        - start: "330pm AEST/430pm AEDT/130pm AWST"
+          starttime: 2021-11-29T16:30:00+11:00
+          endtime: 2021-11-29T16:45:00+11:00
+          duration: "15 min"
+          title: Coffee Break
+        - start: "345pm AEST/445pm AEDT/145pm AWST"
+          starttime: 2021-11-29T16:45:00+11:00
+          endtime: 2021-11-29T18:00:00+11:00
+          duration: "75 min"
+          title: Hack time
     - name: "Tuesday, December 07"
       events:
         - start: "10:30am AEST/11:30am AEDT/8:30am AWST"
