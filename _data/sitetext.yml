@@ -1,5 +1,5 @@
 header:
-  title: Welcome to Brainhack Global 2021 - MIT
+  title: Welcome to Brainhack Global 2021 - MIT Neuro
   text: Dec 6 - Dec 7
   button: Register
   buttonlink: "https://docs.google.com/forms/d/e/1FAIpQLSfRhB2gGEiLHWvHqUboUeIGQewaGbKbc2npKqFJWjtgthFyCg/viewform?usp=sf_link"
@@ -28,7 +28,7 @@ about:
              <a href=\"https://brainhack.org/global2021/events/\">local events</a>
              in different regions around the world. Sign up to be involved with any of the
              <a href=\"https://brainhack.org/global2021/projects/\">international projects</a>\n\n"
-    - title: BrainHack MIT Edition
+    - title: BrainHack MIT Neuro
       body: "BHG 2021 MIT Neuro follows the format of successful virtual OHBM Brainhacks.
              New to computational neuroscience methods? Sign up to the <a href=\"#traintrack\">training track</a>
              to get a handle on all the basics. Ready to join in and start collaborating on projects? Then
