@@ -169,6 +169,7 @@ organizers:
 
 footer:
   legal: "Title image adapted from original by <a href=\"https://pixabay.com/users/gdj-1086657/\">Gordon Johnson</a> from <a href=\"https://pixabay.com/\">Pixabay</a>"
+  legal2: "Website layout adapted from <a href=\"https://brainhack-aus.github.io/global2021/\">Brainhack Australasia 2021</a>"
   social:
     - url: https://twitter.com/bhkMitNeuro
       icon: "fab fa-twitter"
