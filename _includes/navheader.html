@@ -40,21 +40,22 @@
         <div class="intro-heading text-uppercase">{{ site.data.sitetext.header.text | markdownify }}</div>
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink }}">{{ site.data.sitetext.header.button }}</a>
     	<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink2 }}">{{ site.data.sitetext.header.button2 }}</a>
-      </div>
+<!--      </div> -->
 <!--    </div> -->
 <!-- Social Media -->
 <!--   <div class="container"> -->
-     <ul class="list-inline social-buttons">
-	     {% for link in site.data.sitetext.footer.social  %}
-       <li class="list-inline-item">
-		     {% if link.url %}
-         <a href="{{ link.url }}">
-	   {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
-         </a>
-		     {% endif %}
-       </li>
-		   {% endfor %}
-     </ul>
+        <ul class="list-inline social-buttons">
+	        {% for link in site.data.sitetext.footer.social  %}
+          <li class="list-inline-item">
+	   	        {% if link.url %}
+	    <a href="{{ link.url }}">
+	      {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+	    </a>
+		        {% endif %}
+          </li>
+		      {% endfor %}
+        </ul>
+      </div>
    </div>
   </header>
   <!-- End Header -->
