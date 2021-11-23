@@ -1,11 +1,11 @@
 header:
   title: Welcome to Brainhack Global 2021 - MIT
   text: Dec 6 - Dec 7
-  button: Register (join channel)
-  buttonlink: "https://mattermost.brainhack.org/brainhack/channels/brainhack-mit-neuro"
-  button2: Register
-  buttonlink2: "https://docs.google.com/forms/d/e/1FAIpQLSfRhB2gGEiLHWvHqUboUeIGQewaGbKbc2npKqFJWjtgthFyCg/viewform?usp=sf_link"
-
+  button: Register
+  buttonlink: "https://docs.google.com/forms/d/e/1FAIpQLSfRhB2gGEiLHWvHqUboUeIGQewaGbKbc2npKqFJWjtgthFyCg/viewform?usp=sf_link"
+  button2: Join channel
+  buttonlink2: "https://mattermost.brainhack.org/brainhack/channels/brainhack-mit-neuro"
+  
 about:
   title: "About"
   section: about
@@ -130,9 +130,9 @@ organizers:
         institution: MIT
       - name: "Dorota Jarecka"
         institution: MIT
-      - name: "Aakanksha Rana"
-        institution: MIT
       - name: "Hoda Rajaei"
+        institution: MIT
+      - name: "Aakanksha Rana"
         institution: MIT
       - name: "Dhritiman Das"
         institution: MIT
