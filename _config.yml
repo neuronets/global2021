@@ -22,7 +22,7 @@
 # remote_theme: raviriley/agency-jekyll-theme
 
 baseurl: "/global2021" # the subpath of your site, e.g. /blog
-url: "https://brainhack-aus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://neuronets.github.io/mit-brainhack2021/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
