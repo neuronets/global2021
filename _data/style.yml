@@ -6,5 +6,5 @@ black: "#000"
 #Image Customization
 #header-image: "../img/header-bg-dark.svg"
 #header-image: "../img/brainhack-logo.jpg"
-header-image: "../img/image1.gif"
+header-image: "../img/mit-dome.jpeg"
 contact-image: "../../img/map-image.png"
