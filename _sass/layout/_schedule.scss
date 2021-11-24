@@ -2,7 +2,7 @@
   .day-heading {
     h4 {
       padding-top: 1em;
-      color: inherit;
+      color: $primary        <!--- inherit; -->
       &.subheading {
         text-transform: none;
       }
