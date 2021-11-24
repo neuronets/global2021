@@ -84,7 +84,7 @@ traintrack:
     - title: "Nobrainer: Model Zoo"
       year: "Monday, Dec 06 2021, 13:00 AEDT/10:00 AWST"
       desc: "Learn how to add and deploy your own trained models to the nobrainer model zoo"
-      image: assets/img/bh_logo.jpg
+      image: assets/img/bh_logo.png
       align: right
       presenter: Hoda Rajaei
       registration: Zoom link to be announced soon #https://uqz.zoom.us/meeting/register/tZcpce2vrT8sG9LLUcx_na32C5xcc4IsZZy4
@@ -100,7 +100,7 @@ traintrack:
     - title: "Pydra: Hands-on session"
       year: "Tuesday, Dec 07 2021, 11:00 AEDT/08:00 AWST"
       desc: "Hands-on tutorial for Pydra: a lightweight Python dataflow engine"
-      image: assets/img/pydra_logo.jpeg
+      image: assets/img/pydra_logo.jpg
       align: #right
       presenter: Dorota Jarecka
       registration: Zoom link to be announced soon #https://uqz.zoom.us/meeting/register/tZcpce2vrT8sG9LLUcx_na32C5xcc4IsZZy4
