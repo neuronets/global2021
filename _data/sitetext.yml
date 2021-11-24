@@ -106,7 +106,7 @@ traintrack:
       registration: Zoom link to be announced soon #https://uqz.zoom.us/meeting/register/tZcpce2vrT8sG9LLUcx_na32C5xcc4IsZZy4
       alt: #Git and Github for researchers
 
-      end: "Questions <br> and <br> Feedback"
+  end: "Questions <br> and <br> Feedback"
 
 schedule:
   section: schedule
