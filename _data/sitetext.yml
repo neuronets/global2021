@@ -15,12 +15,11 @@ about:
   section: about
   subsections:
     - title: BrainHack Org
-      body: "The purpose of Brainhack is to bridge the data science and
-             neuroscience research communities to advance the progress of
-             neuroscience. Brainhack is a unique conference that
+      body: "Brainhack is a unique conference that
              convenes researchers from across the globe and myriad
              disciplines to work together on innovative projects related
-             to neuroscience.\n
+             to neuroscience. Brainhack Global will host several simultaneous to build a critical mass for the regional Brainhack movement 
+             and provide opportunities for inter-Brainhack collaboration.\n
 
              Brainhack Global is dedicated to a harassment-free conference
              experience for everyone. Our anti-harassment policy can be
@@ -33,21 +32,21 @@ about:
              in different regions around the world. Sign up to be involved with any of the
              <a href=\"https://brainhack.org/global2021/projects/\">international projects</a>\n\n"
     - title: BrainHack MIT Neuro
-      body: "BHG 2021 MIT Neuro follows the format of successful virtual OHBM Brainhacks.
-             New to computational neuroscience methods? Sign up to the <a href=\"#traintrack\">training track</a>
-             to get a handle on all the basics. Ready to join in and start collaborating on projects? Then
+      body: "BHG 2021 MIT Neuro is a 2-day hackathon being organized by a team of deep learning and neuroscience researchers from the McGovern Institute for Brain Research at MIT 
+             and follows the format of previously organized virtual OHBM Brainhacks.
+             Interested in processing of neuroimaging data ? Or do you want to acquainted with the basics of Git and DataLad ?
+             Sign up to the <a href=\"#traintrack\">training track</a>
+             for tutorials on the basics of data preparation and reproducible workflows related to neuroimaging. Want to kick-start collaborations on your own projects? Then
              sign up for the 
              <a href=\"#hacktrack\">hackathon-track</a> and start hacking with your peers! 
-             Throughout the week there will also be
-             virtual social events using <a href=\"https://www.gather.town/\">Gather.town</a>
-             for everyone to meet up and get to know one another.\n\n
+             \n\n
              
              To register, please fill out the <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfRhB2gGEiLHWvHqUboUeIGQewaGbKbc2npKqFJWjtgthFyCg/viewform?usp=sf_link\">registration form</a> 
              and join the BrainHackGlobal-MIT-Neuro <a href=\"https://mattermost.brainhack.org/brainhack/channels/brainhack-mit-neuro\">Mattermost channel</a>
-             (a Slack alternative). All comms about the event will happen through this channel so watch for notifications here!."
+             (a Slack alternative). All comms about the event will happen through this channel so watch for notifications here!. You can also follow us on <a href=\"https://twitter.com/bhkMitNeuro/\">Twitter</a>."
 hacktrack:
   title: "HACKATHON"
-  text: "Become part of the global brain-hackathon!"
+  text: "Join the global brain-hackathon at MIT-Neuro!"
   subtext: "Get involved with interesting projects and form collaborations in MIT and around the world."
   register: https://docs.google.com/forms/d/e/1FAIpQLSfRhB2gGEiLHWvHqUboUeIGQewaGbKbc2npKqFJWjtgthFyCg/viewform?usp=sf_link"
   section: hacktrack
@@ -57,11 +56,11 @@ hacktrack:
       image: assets/img/guidelines.jpg
       link: https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/leading_and_attending_to_brainhack_projects.md
     - name: "Projects"
-      description: "The list of projects that have been proposed"
+      description: "The list of projects that have been proposed globally"
       image: assets/img/bh_logo.png
       link: https://brainhack.org/global2021/projects/
     - name: "New project"
-      description: "Submit your own proposal here"
+      description: "Submit your own proposal here for Brainhack-MIT-Neuro"
       image: assets/img/brainhack-logo.jpg
       link: https://github.com/neuronets/Brainhack-MIT-Neuro/issues/new/choose
     
@@ -169,11 +168,6 @@ schedule:
           endtime: 2021-11-30T13:30:00+11:00
           duration: "120 min"
           title: Hackathon
-        - start: "1030am AEST/1130am AEDT/830am AWST"
-          starttime: 2021-11-30T11:30:00+11:00
-          endtime: 2021-11-30T13:30:00+11:00
-          duration: "120 min"
-          title: Hackathon
         - start: "1230pm AEST/1330pm AEDT/1030am AWST"
           starttime: 2021-11-30T13:30:00+11:00
           endtime: 2021-11-30T14:30:00+11:00
@@ -212,7 +206,7 @@ organizers:
         institution: MIT
 
 footer:
-  legal: "Title image adapted from original by <a href=\"https://pixabay.com/users/gdj-1086657/\">Gordon Johnson</a> from <a href=\"https://pixabay.com/\">Pixabay</a>"
+  legal: "Title image adapted from original by <a href=\"https://www.flickr.com/photos/usr_c/5633432466/\">Ali Almossawi</a> from <a href=\"https://www.flickr.com/photos/usr_c/5633432466/\">Flickr</a>"
   legal2: "Website layout adapted from <a href=\"https://brainhack-aus.github.io/global2021/\">Brainhack Australasia 2021</a>"
   social:
     - url: https://twitter.com/bhkMitNeuro
