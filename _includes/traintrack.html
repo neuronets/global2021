@@ -8,6 +8,7 @@
         </div>
       </div>
       <div class="row">
+      <!-- <div> -->
         <div class="col-lg-12">
           <ul class="traintrack">
 		  {%- for event in site.data.sitetext.traintrack.events -%}
@@ -17,7 +18,9 @@
 			<li>
 			{% endif %}
               <div class="traintrack-image">
-                <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: '' }}">
+		<figure>
+		 <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: '' }}">
+	      	</figure>
               </div>
               <div class="traintrack-panel">
                 <div class="traintrack-heading">
