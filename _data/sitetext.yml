@@ -96,9 +96,9 @@ traintrack:
       presenter: Dorota Jarecka
       registration: https://mit.zoom.us/j/91044767839
       alt: #Git and Github for researchers
-    - title: "Pydra: Hands-on session"
+    - title: "DataLad: a distributed data management system for reproducible workflows"
       year: "Tuesday, Dec 07 2021, 11:00 AEDT/08:00 AWST"
-      desc: "DataLad: a distributed data management system for reproducible workflows"
+      desc: "Get introduced to DataLad, a powerful tool for open-access data management, in this hands-on session"
       image: assets/img/datalad-logo.jpg
       align: center
       presenter: Dorota Jarecka
@@ -162,7 +162,7 @@ schedule:
           duration: "30 min"
           title: DataLad for beginners (by Dorota Jarecka) + Coffee
           #presenter: TBA
-          registration:  <Add zoom link>
+          registration:  https://mit.zoom.us/j/91044767839
         - start: "1030am AEST/1130am AEDT/830am AWST"
           starttime: 2021-11-30T11:30:00+11:00
           endtime: 2021-11-30T13:30:00+11:00
