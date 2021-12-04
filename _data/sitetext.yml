@@ -99,7 +99,7 @@ traintrack:
     - title: "Pydra: Hands-on session"
       year: "Tuesday, Dec 07 2021, 11:00 AEDT/08:00 AWST"
       desc: "DataLad: a distributed data management system for reproducible workflows"
-      image: datalad-logo.jpg
+      image: assets/img/datalad-logo.jpg
       align: center
       presenter: Dorota Jarecka
       registration: Zoom link to be announced soon #https://uqz.zoom.us/meeting/register/tZcpce2vrT8sG9LLUcx_na32C5xcc4IsZZy4
