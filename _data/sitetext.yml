@@ -79,7 +79,7 @@ traintrack:
       image: assets/img/image1.gif
       alt: #HPC and BASH basics
       presenter: Aakanksha Rana and Dhritiman Das
-      registration: Zoom link to be announced soon #https://uqz.zoom.us/meeting/register/tZYrfu6gqjgoH9MboXHLg9M5-1Z9dMTeWFZC
+      registration: https://mit.zoom.us/j/91044767839
     - title: "Nobrainer: Model Zoo"
       year: "Monday, Dec 06 2021, 13:00 AEDT/10:00 AWST"
       desc: "Learn how to add and deploy your own trained models to the nobrainer model zoo"
@@ -160,7 +160,7 @@ schedule:
           starttime: 2021-11-30T11:00:00+11:00
           endtime: 2021-11-30T11:30:00+11:00
           duration: "30 min"
-          title: Pydra for beginners (by Dorota Jarecka) + Coffee
+          title: DataLad for beginners (by Dorota Jarecka) + Coffee
           #presenter: TBA
           registration:  <Add zoom link>
         - start: "1030am AEST/1130am AEDT/830am AWST"
