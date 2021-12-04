@@ -5,7 +5,7 @@
 @import "base/variables.scss";
 @import "base/mixins.scss";
 // Custom colors
-$primary: {{ site.data.style.highlight | default: "#F7E025" }} !default;
+$primary: {{ site.data.style.highlight | default: "#D8C108" }} !default;
 $white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
 $bg-primary: #604f16;
