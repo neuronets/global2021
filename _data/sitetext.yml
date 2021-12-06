@@ -49,7 +49,7 @@ about:
 hacktrack:
   title: "HACKATHON"
   text: "Join the global brain-hackathon at MIT-Neuro!"
-  subtext: "Get involved with interesting projects and form collaborations in MIT and around the world."
+  subtext: <strong>"Get involved with interesting projects and form collaborations in MIT and around the world."</strong>
   register: https://docs.google.com/forms/d/e/1FAIpQLSfRhB2gGEiLHWvHqUboUeIGQewaGbKbc2npKqFJWjtgthFyCg/viewform?usp=sf_link"
   section: hacktrack
   items:
