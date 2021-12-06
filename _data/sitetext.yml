@@ -33,8 +33,9 @@ about:
              <a href=\"https://brainhack.org/global2021/projects/\">international projects</a>\n\n"
     - title: BrainHack MIT Neuro
       body: "BHG 2021 MIT Neuro is a 2-day hackathon being organized by a team of deep learning and neuroscience researchers from the McGovern Institute for Brain Research at MIT 
-             and follows the format of previously organized virtual OHBM Brainhacks.
-             Interested in processing of neuroimaging data ? Or do you want to acquainted with the basics of Git and DataLad ?
+             and follows the format of previously organized virtual OHBM Brainhacks. (Visit the <a href=\"https://mcgovern.mit.edu/\">McGovern Institute at MIT</a> website to know more about it and visit our <a href=\"https://mcgovern.mit.edu/\">the SIG lab</a> website to know more about us.)   
+             
+             Interested in the processing and analysis of neuroimaging data ? Or do you want to get acquainted with the basics of Git ? Curious about how you can efficiently retrieve open-access neuroimaging data using DataLad ?
              Sign up to the <a href=\"#traintrack\">training track</a>
              for tutorials on the basics of data preparation and reproducible workflows related to neuroimaging. Want to kick-start collaborations on your own projects? Then
              sign up for the 
